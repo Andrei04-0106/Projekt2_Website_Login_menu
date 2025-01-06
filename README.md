@@ -21,7 +21,7 @@ Das Ziel dieses Projekts ist es, Webentwicklung Grundlagen zu üben und zu zeige
   
 ## Erledigte Features
 
-## Live-Demo
+## Live-Demo (ACHTUNG LAYOUT IST AKTUELL NUR AUF LAPTOP AUSGERICHTET!)
 [Hier kannst du die Website ansehen](https://andrei04-0106.github.io/Projekt2_Website_Login_menu)
 
 ## Feedback
