@@ -14,12 +14,12 @@ Das Ziel dieses Projekts ist es, Webentwicklung Grundlagen zu üben und zu zeige
 - CSS
 
 ## Geplante Features
-- Responsive Design (Bootstrap)
 - erweiterung der Register seite
 - erweiterung der forgot Password seite
 - Einbau von Logik (Javascript)
   
 ## Erledigte Features
+- Responsive Design
 
 ## Live-Demo (ACHTUNG LAYOUT IST AKTUELL NUR AUF LAPTOP AUSGERICHTET!)
 [Hier kannst du die Website ansehen](https://andrei04-0106.github.io/Projekt2_Website_Login_menu)
